@@ -13,7 +13,9 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "format": "prettier --write \"src/**/*.js\" \"*.js\"",
-    "format:check": "prettier --check \"src/**/*.js\" \"*.js\""
+    "format:check": "prettier --check \"src/**/*.js\" \"*.js\"",
+    "prepare": "husky",
+    "pre-commit":"npm run format && npm run lint && npm test"
   },
   "husky": {
     "hooks": {
