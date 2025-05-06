@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "fb_001",
+    "date": "2025-04-14T10:30:00Z",
+    "channel": "twitter",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_002",
+    "date": "2025-04-14T11:00:00Z",
+    "channel": "facebook",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_003",
+    "date": "2025-04-14T11:30:00Z",
+    "channel": "manual",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_004",
+    "date": "2025-04-14T12:00:00Z",
+    "channel": "sms",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_005",
+    "date": "2025-04-14T12:30:00Z",
+    "channel": "site_web",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_006",
+    "date": "2025-04-14T13:00:00Z",
+    "channel": "google_reviews",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_007",
+    "date": "2025-04-14T13:30:00Z",
+    "channel": "email",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_008",
+    "date": "2025-04-14T14:00:00Z",
+    "channel": "twitter",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_009",
+    "date": "2025-04-14T14:30:00Z",
+    "channel": "facebook",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_010",
+    "date": "2025-04-14T15:00:00Z",
+    "channel": "manual",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_011",
+    "date": "2025-04-14T15:30:00Z",
+    "channel": "sms",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_012",
+    "date": "2025-04-14T16:00:00Z",
+    "channel": "site_web",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_013",
+    "date": "2025-04-14T16:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_014",
+    "date": "2025-04-14T17:00:00Z",
+    "channel": "email",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_015",
+    "date": "2025-04-14T17:30:00Z",
+    "channel": "twitter",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_016",
+    "date": "2025-04-14T18:00:00Z",
+    "channel": "facebook",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_017",
+    "date": "2025-04-14T18:30:00Z",
+    "channel": "manual",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_018",
+    "date": "2025-04-14T19:00:00Z",
+    "channel": "sms",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_019",
+    "date": "2025-04-14T19:30:00Z",
+    "channel": "site_web",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_020",
+    "date": "2025-04-14T20:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_021",
+    "date": "2025-04-14T20:30:00Z",
+    "channel": "email",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_022",
+    "date": "2025-04-14T21:00:00Z",
+    "channel": "twitter",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_023",
+    "date": "2025-04-14T21:30:00Z",
+    "channel": "facebook",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_024",
+    "date": "2025-04-14T22:00:00Z",
+    "channel": "manual",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_025",
+    "date": "2025-04-14T22:30:00Z",
+    "channel": "sms",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_026",
+    "date": "2025-04-14T23:00:00Z",
+    "channel": "site_web",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_027",
+    "date": "2025-04-14T23:30:00Z",
+    "channel": "google_reviews",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_028",
+    "date": "2025-04-15T00:00:00Z",
+    "channel": "email",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_029",
+    "date": "2025-04-15T00:30:00Z",
+    "channel": "twitter",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_030",
+    "date": "2025-04-15T01:00:00Z",
+    "channel": "facebook",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_031",
+    "date": "2025-04-15T01:30:00Z",
+    "channel": "manual",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_032",
+    "date": "2025-04-15T02:00:00Z",
+    "channel": "sms",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_033",
+    "date": "2025-04-15T02:30:00Z",
+    "channel": "site_web",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_034",
+    "date": "2025-04-15T03:00:00Z",
+    "channel": "google_reviews",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_035",
+    "date": "2025-04-15T03:30:00Z",
+    "channel": "email",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_036",
+    "date": "2025-04-15T04:00:00Z",
+    "channel": "twitter",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_037",
+    "date": "2025-04-15T04:30:00Z",
+    "channel": "facebook",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_038",
+    "date": "2025-04-15T05:00:00Z",
+    "channel": "manual",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_039",
+    "date": "2025-04-15T05:30:00Z",
+    "channel": "sms",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_040",
+    "date": "2025-04-15T06:00:00Z",
+    "channel": "site_web",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_041",
+    "date": "2025-04-15T06:30:00Z",
+    "channel": "google_reviews",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_042",
+    "date": "2025-04-15T07:00:00Z",
+    "channel": "email",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_043",
+    "date": "2025-04-15T07:30:00Z",
+    "channel": "twitter",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_044",
+    "date": "2025-04-15T08:00:00Z",
+    "channel": "facebook",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_045",
+    "date": "2025-04-15T08:30:00Z",
+    "channel": "manual",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_046",
+    "date": "2025-04-15T09:00:00Z",
+    "channel": "sms",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_047",
+    "date": "2025-04-15T09:30:00Z",
+    "channel": "site_web",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_048",
+    "date": "2025-04-15T10:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_049",
+    "date": "2025-04-15T10:30:00Z",
+    "channel": "email",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_050",
+    "date": "2025-04-15T11:00:00Z",
+    "channel": "twitter",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_051",
+    "date": "2025-04-15T11:30:00Z",
+    "channel": "facebook",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_052",
+    "date": "2025-04-15T12:00:00Z",
+    "channel": "manual",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_053",
+    "date": "2025-04-15T12:30:00Z",
+    "channel": "sms",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_054",
+    "date": "2025-04-15T13:00:00Z",
+    "channel": "site_web",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_055",
+    "date": "2025-04-15T13:30:00Z",
+    "channel": "google_reviews",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_056",
+    "date": "2025-04-15T14:00:00Z",
+    "channel": "email",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_057",
+    "date": "2025-04-15T14:30:00Z",
+    "channel": "twitter",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_058",
+    "date": "2025-04-15T15:00:00Z",
+    "channel": "facebook",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_059",
+    "date": "2025-04-15T15:30:00Z",
+    "channel": "manual",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_060",
+    "date": "2025-04-15T16:00:00Z",
+    "channel": "sms",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_061",
+    "date": "2025-04-15T16:30:00Z",
+    "channel": "site_web",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_062",
+    "date": "2025-04-15T17:00:00Z",
+    "channel": "google_reviews",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_063",
+    "date": "2025-04-15T17:30:00Z",
+    "channel": "email",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_064",
+    "date": "2025-04-15T18:00:00Z",
+    "channel": "twitter",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_065",
+    "date": "2025-04-15T18:30:00Z",
+    "channel": "facebook",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_066",
+    "date": "2025-04-15T19:00:00Z",
+    "channel": "manual",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_067",
+    "date": "2025-04-15T19:30:00Z",
+    "channel": "sms",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_068",
+    "date": "2025-04-15T20:00:00Z",
+    "channel": "site_web",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_069",
+    "date": "2025-04-15T20:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_070",
+    "date": "2025-04-15T21:00:00Z",
+    "channel": "email",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_071",
+    "date": "2025-04-15T21:30:00Z",
+    "channel": "twitter",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_072",
+    "date": "2025-04-15T22:00:00Z",
+    "channel": "facebook",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_073",
+    "date": "2025-04-15T22:30:00Z",
+    "channel": "manual",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_074",
+    "date": "2025-04-15T23:00:00Z",
+    "channel": "sms",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_075",
+    "date": "2025-04-15T23:30:00Z",
+    "channel": "site_web",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_076",
+    "date": "2025-04-16T00:00:00Z",
+    "channel": "google_reviews",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_077",
+    "date": "2025-04-16T00:30:00Z",
+    "channel": "email",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_078",
+    "date": "2025-04-16T01:00:00Z",
+    "channel": "twitter",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_079",
+    "date": "2025-04-16T01:30:00Z",
+    "channel": "facebook",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_080",
+    "date": "2025-04-16T02:00:00Z",
+    "channel": "manual",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_081",
+    "date": "2025-04-16T02:30:00Z",
+    "channel": "sms",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_082",
+    "date": "2025-04-16T03:00:00Z",
+    "channel": "site_web",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_083",
+    "date": "2025-04-16T03:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_084",
+    "date": "2025-04-16T04:00:00Z",
+    "channel": "email",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_085",
+    "date": "2025-04-16T04:30:00Z",
+    "channel": "twitter",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_086",
+    "date": "2025-04-16T05:00:00Z",
+    "channel": "facebook",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_087",
+    "date": "2025-04-16T05:30:00Z",
+    "channel": "manual",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_088",
+    "date": "2025-04-16T06:00:00Z",
+    "channel": "sms",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_089",
+    "date": "2025-04-16T06:30:00Z",
+    "channel": "site_web",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_090",
+    "date": "2025-04-16T07:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_091",
+    "date": "2025-04-16T07:30:00Z",
+    "channel": "email",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_092",
+    "date": "2025-04-16T08:00:00Z",
+    "channel": "twitter",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_093",
+    "date": "2025-04-16T08:30:00Z",
+    "channel": "facebook",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_094",
+    "date": "2025-04-16T09:00:00Z",
+    "channel": "manual",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_095",
+    "date": "2025-04-16T09:30:00Z",
+    "channel": "sms",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_096",
+    "date": "2025-04-16T10:00:00Z",
+    "channel": "site_web",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_097",
+    "date": "2025-04-16T10:30:00Z",
+    "channel": "google_reviews",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_098",
+    "date": "2025-04-16T11:00:00Z",
+    "channel": "email",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_099",
+    "date": "2025-04-16T11:30:00Z",
+    "channel": "twitter",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_100",
+    "date": "2025-04-16T12:00:00Z",
+    "channel": "facebook",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_101",
+    "date": "2025-04-16T12:30:00Z",
+    "channel": "manual",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_102",
+    "date": "2025-04-16T13:00:00Z",
+    "channel": "sms",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_103",
+    "date": "2025-04-16T13:30:00Z",
+    "channel": "site_web",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_104",
+    "date": "2025-04-16T14:00:00Z",
+    "channel": "google_reviews",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_105",
+    "date": "2025-04-16T14:30:00Z",
+    "channel": "email",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_106",
+    "date": "2025-04-16T15:00:00Z",
+    "channel": "twitter",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_107",
+    "date": "2025-04-16T15:30:00Z",
+    "channel": "facebook",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_108",
+    "date": "2025-04-16T16:00:00Z",
+    "channel": "manual",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_109",
+    "date": "2025-04-16T16:30:00Z",
+    "channel": "sms",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_110",
+    "date": "2025-04-16T17:00:00Z",
+    "channel": "site_web",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_111",
+    "date": "2025-04-16T17:30:00Z",
+    "channel": "google_reviews",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_112",
+    "date": "2025-04-16T18:00:00Z",
+    "channel": "email",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_113",
+    "date": "2025-04-16T18:30:00Z",
+    "channel": "twitter",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_114",
+    "date": "2025-04-16T19:00:00Z",
+    "channel": "facebook",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_115",
+    "date": "2025-04-16T19:30:00Z",
+    "channel": "manual",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_116",
+    "date": "2025-04-16T20:00:00Z",
+    "channel": "sms",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_117",
+    "date": "2025-04-16T20:30:00Z",
+    "channel": "site_web",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_118",
+    "date": "2025-04-16T21:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_119",
+    "date": "2025-04-16T21:30:00Z",
+    "channel": "email",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_120",
+    "date": "2025-04-16T22:00:00Z",
+    "channel": "twitter",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_121",
+    "date": "2025-04-16T22:30:00Z",
+    "channel": "facebook",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_122",
+    "date": "2025-04-16T23:00:00Z",
+    "channel": "manual",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_123",
+    "date": "2025-04-16T23:30:00Z",
+    "channel": "sms",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_124",
+    "date": "2025-04-17T00:00:00Z",
+    "channel": "site_web",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_125",
+    "date": "2025-04-17T00:30:00Z",
+    "channel": "google_reviews",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_126",
+    "date": "2025-04-17T01:00:00Z",
+    "channel": "email",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_127",
+    "date": "2025-04-17T01:30:00Z",
+    "channel": "twitter",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_128",
+    "date": "2025-04-17T02:00:00Z",
+    "channel": "facebook",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_129",
+    "date": "2025-04-17T02:30:00Z",
+    "channel": "manual",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_130",
+    "date": "2025-04-17T03:00:00Z",
+    "channel": "sms",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_131",
+    "date": "2025-04-17T03:30:00Z",
+    "channel": "site_web",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_132",
+    "date": "2025-04-17T04:00:00Z",
+    "channel": "google_reviews",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_133",
+    "date": "2025-04-17T04:30:00Z",
+    "channel": "email",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_134",
+    "date": "2025-04-17T05:00:00Z",
+    "channel": "twitter",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_135",
+    "date": "2025-04-17T05:30:00Z",
+    "channel": "facebook",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_136",
+    "date": "2025-04-17T06:00:00Z",
+    "channel": "manual",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_137",
+    "date": "2025-04-17T06:30:00Z",
+    "channel": "sms",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_138",
+    "date": "2025-04-17T07:00:00Z",
+    "channel": "site_web",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_139",
+    "date": "2025-04-17T07:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_140",
+    "date": "2025-04-17T08:00:00Z",
+    "channel": "email",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_141",
+    "date": "2025-04-17T08:30:00Z",
+    "channel": "twitter",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_142",
+    "date": "2025-04-17T09:00:00Z",
+    "channel": "facebook",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_143",
+    "date": "2025-04-17T09:30:00Z",
+    "channel": "manual",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_144",
+    "date": "2025-04-17T10:00:00Z",
+    "channel": "sms",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_145",
+    "date": "2025-04-17T10:30:00Z",
+    "channel": "site_web",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_146",
+    "date": "2025-04-17T11:00:00Z",
+    "channel": "google_reviews",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_147",
+    "date": "2025-04-17T11:30:00Z",
+    "channel": "email",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_148",
+    "date": "2025-04-17T12:00:00Z",
+    "channel": "twitter",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_149",
+    "date": "2025-04-17T12:30:00Z",
+    "channel": "facebook",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_150",
+    "date": "2025-04-17T13:00:00Z",
+    "channel": "manual",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_151",
+    "date": "2025-04-17T13:30:00Z",
+    "channel": "sms",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_152",
+    "date": "2025-04-17T14:00:00Z",
+    "channel": "site_web",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_153",
+    "date": "2025-04-17T14:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_154",
+    "date": "2025-04-17T15:00:00Z",
+    "channel": "email",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_155",
+    "date": "2025-04-17T15:30:00Z",
+    "channel": "twitter",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_156",
+    "date": "2025-04-17T16:00:00Z",
+    "channel": "facebook",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_157",
+    "date": "2025-04-17T16:30:00Z",
+    "channel": "manual",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_158",
+    "date": "2025-04-17T17:00:00Z",
+    "channel": "sms",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_159",
+    "date": "2025-04-17T17:30:00Z",
+    "channel": "site_web",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_160",
+    "date": "2025-04-17T18:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_161",
+    "date": "2025-04-17T18:30:00Z",
+    "channel": "email",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_162",
+    "date": "2025-04-17T19:00:00Z",
+    "channel": "twitter",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_163",
+    "date": "2025-04-17T19:30:00Z",
+    "channel": "facebook",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_164",
+    "date": "2025-04-17T20:00:00Z",
+    "channel": "manual",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_165",
+    "date": "2025-04-17T20:30:00Z",
+    "channel": "sms",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_166",
+    "date": "2025-04-17T21:00:00Z",
+    "channel": "site_web",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_167",
+    "date": "2025-04-17T21:30:00Z",
+    "channel": "google_reviews",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_168",
+    "date": "2025-04-17T22:00:00Z",
+    "channel": "email",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_169",
+    "date": "2025-04-17T22:30:00Z",
+    "channel": "twitter",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_170",
+    "date": "2025-04-17T23:00:00Z",
+    "channel": "facebook",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_171",
+    "date": "2025-04-17T23:30:00Z",
+    "channel": "manual",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_172",
+    "date": "2025-04-18T00:00:00Z",
+    "channel": "sms",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_173",
+    "date": "2025-04-18T00:30:00Z",
+    "channel": "site_web",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_174",
+    "date": "2025-04-18T01:00:00Z",
+    "channel": "google_reviews",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_175",
+    "date": "2025-04-18T01:30:00Z",
+    "channel": "email",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_176",
+    "date": "2025-04-18T02:00:00Z",
+    "channel": "twitter",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_177",
+    "date": "2025-04-18T02:30:00Z",
+    "channel": "facebook",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_178",
+    "date": "2025-04-18T03:00:00Z",
+    "channel": "manual",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_179",
+    "date": "2025-04-18T03:30:00Z",
+    "channel": "sms",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_180",
+    "date": "2025-04-18T04:00:00Z",
+    "channel": "site_web",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_181",
+    "date": "2025-04-18T04:30:00Z",
+    "channel": "google_reviews",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_182",
+    "date": "2025-04-18T05:00:00Z",
+    "channel": "email",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_183",
+    "date": "2025-04-18T05:30:00Z",
+    "channel": "twitter",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_184",
+    "date": "2025-04-18T06:00:00Z",
+    "channel": "facebook",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_185",
+    "date": "2025-04-18T06:30:00Z",
+    "channel": "manual",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_186",
+    "date": "2025-04-18T07:00:00Z",
+    "channel": "sms",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_187",
+    "date": "2025-04-18T07:30:00Z",
+    "channel": "site_web",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_188",
+    "date": "2025-04-18T08:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_189",
+    "date": "2025-04-18T08:30:00Z",
+    "channel": "email",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_190",
+    "date": "2025-04-18T09:00:00Z",
+    "channel": "twitter",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_191",
+    "date": "2025-04-18T09:30:00Z",
+    "channel": "facebook",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_192",
+    "date": "2025-04-18T10:00:00Z",
+    "channel": "manual",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_193",
+    "date": "2025-04-18T10:30:00Z",
+    "channel": "sms",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_194",
+    "date": "2025-04-18T11:00:00Z",
+    "channel": "site_web",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_195",
+    "date": "2025-04-18T11:30:00Z",
+    "channel": "google_reviews",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_196",
+    "date": "2025-04-18T12:00:00Z",
+    "channel": "email",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_197",
+    "date": "2025-04-18T12:30:00Z",
+    "channel": "twitter",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_198",
+    "date": "2025-04-18T13:00:00Z",
+    "channel": "facebook",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_199",
+    "date": "2025-04-18T13:30:00Z",
+    "channel": "manual",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_200",
+    "date": "2025-04-18T14:00:00Z",
+    "channel": "sms",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_201",
+    "date": "2025-04-18T14:30:00Z",
+    "channel": "site_web",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_202",
+    "date": "2025-04-18T15:00:00Z",
+    "channel": "google_reviews",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_203",
+    "date": "2025-04-18T15:30:00Z",
+    "channel": "email",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_204",
+    "date": "2025-04-18T16:00:00Z",
+    "channel": "twitter",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_205",
+    "date": "2025-04-18T16:30:00Z",
+    "channel": "facebook",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_206",
+    "date": "2025-04-18T17:00:00Z",
+    "channel": "manual",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_207",
+    "date": "2025-04-18T17:30:00Z",
+    "channel": "sms",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_208",
+    "date": "2025-04-18T18:00:00Z",
+    "channel": "site_web",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_209",
+    "date": "2025-04-18T18:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_210",
+    "date": "2025-04-18T19:00:00Z",
+    "channel": "email",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_211",
+    "date": "2025-04-18T19:30:00Z",
+    "channel": "twitter",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_212",
+    "date": "2025-04-18T20:00:00Z",
+    "channel": "facebook",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_213",
+    "date": "2025-04-18T20:30:00Z",
+    "channel": "manual",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_214",
+    "date": "2025-04-18T21:00:00Z",
+    "channel": "sms",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_215",
+    "date": "2025-04-18T21:30:00Z",
+    "channel": "site_web",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_216",
+    "date": "2025-04-18T22:00:00Z",
+    "channel": "google_reviews",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_217",
+    "date": "2025-04-18T22:30:00Z",
+    "channel": "email",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_218",
+    "date": "2025-04-18T23:00:00Z",
+    "channel": "twitter",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_219",
+    "date": "2025-04-18T23:30:00Z",
+    "channel": "facebook",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_220",
+    "date": "2025-04-19T00:00:00Z",
+    "channel": "manual",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_221",
+    "date": "2025-04-19T00:30:00Z",
+    "channel": "sms",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_222",
+    "date": "2025-04-19T01:00:00Z",
+    "channel": "site_web",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_223",
+    "date": "2025-04-19T01:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_224",
+    "date": "2025-04-19T02:00:00Z",
+    "channel": "email",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_225",
+    "date": "2025-04-19T02:30:00Z",
+    "channel": "twitter",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_226",
+    "date": "2025-04-19T03:00:00Z",
+    "channel": "facebook",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_227",
+    "date": "2025-04-19T03:30:00Z",
+    "channel": "manual",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_228",
+    "date": "2025-04-19T04:00:00Z",
+    "channel": "sms",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_229",
+    "date": "2025-04-19T04:30:00Z",
+    "channel": "site_web",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_230",
+    "date": "2025-04-19T05:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_231",
+    "date": "2025-04-19T05:30:00Z",
+    "channel": "email",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_232",
+    "date": "2025-04-19T06:00:00Z",
+    "channel": "twitter",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_233",
+    "date": "2025-04-19T06:30:00Z",
+    "channel": "facebook",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_234",
+    "date": "2025-04-19T07:00:00Z",
+    "channel": "manual",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_235",
+    "date": "2025-04-19T07:30:00Z",
+    "channel": "sms",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_236",
+    "date": "2025-04-19T08:00:00Z",
+    "channel": "site_web",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_237",
+    "date": "2025-04-19T08:30:00Z",
+    "channel": "google_reviews",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_238",
+    "date": "2025-04-19T09:00:00Z",
+    "channel": "email",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_239",
+    "date": "2025-04-19T09:30:00Z",
+    "channel": "twitter",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_240",
+    "date": "2025-04-19T10:00:00Z",
+    "channel": "facebook",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_241",
+    "date": "2025-04-19T10:30:00Z",
+    "channel": "manual",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_242",
+    "date": "2025-04-19T11:00:00Z",
+    "channel": "sms",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_243",
+    "date": "2025-04-19T11:30:00Z",
+    "channel": "site_web",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_244",
+    "date": "2025-04-19T12:00:00Z",
+    "channel": "google_reviews",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_245",
+    "date": "2025-04-19T12:30:00Z",
+    "channel": "email",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_246",
+    "date": "2025-04-19T13:00:00Z",
+    "channel": "twitter",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_247",
+    "date": "2025-04-19T13:30:00Z",
+    "channel": "facebook",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_248",
+    "date": "2025-04-19T14:00:00Z",
+    "channel": "manual",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_249",
+    "date": "2025-04-19T14:30:00Z",
+    "channel": "sms",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_250",
+    "date": "2025-04-19T15:00:00Z",
+    "channel": "site_web",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_251",
+    "date": "2025-04-19T15:30:00Z",
+    "channel": "google_reviews",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_252",
+    "date": "2025-04-19T16:00:00Z",
+    "channel": "email",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_253",
+    "date": "2025-04-19T16:30:00Z",
+    "channel": "twitter",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_254",
+    "date": "2025-04-19T17:00:00Z",
+    "channel": "facebook",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_255",
+    "date": "2025-04-19T17:30:00Z",
+    "channel": "manual",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_256",
+    "date": "2025-04-19T18:00:00Z",
+    "channel": "sms",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_257",
+    "date": "2025-04-19T18:30:00Z",
+    "channel": "site_web",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_258",
+    "date": "2025-04-19T19:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_259",
+    "date": "2025-04-19T19:30:00Z",
+    "channel": "email",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_260",
+    "date": "2025-04-19T20:00:00Z",
+    "channel": "twitter",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_261",
+    "date": "2025-04-19T20:30:00Z",
+    "channel": "facebook",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_262",
+    "date": "2025-04-19T21:00:00Z",
+    "channel": "manual",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_263",
+    "date": "2025-04-19T21:30:00Z",
+    "channel": "sms",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_264",
+    "date": "2025-04-19T22:00:00Z",
+    "channel": "site_web",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_265",
+    "date": "2025-04-19T22:30:00Z",
+    "channel": "google_reviews",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_266",
+    "date": "2025-04-19T23:00:00Z",
+    "channel": "email",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_267",
+    "date": "2025-04-19T23:30:00Z",
+    "channel": "twitter",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_268",
+    "date": "2025-04-20T00:00:00Z",
+    "channel": "facebook",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_269",
+    "date": "2025-04-20T00:30:00Z",
+    "channel": "manual",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_270",
+    "date": "2025-04-20T01:00:00Z",
+    "channel": "sms",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_271",
+    "date": "2025-04-20T01:30:00Z",
+    "channel": "site_web",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_272",
+    "date": "2025-04-20T02:00:00Z",
+    "channel": "google_reviews",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_273",
+    "date": "2025-04-20T02:30:00Z",
+    "channel": "email",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_274",
+    "date": "2025-04-20T03:00:00Z",
+    "channel": "twitter",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_275",
+    "date": "2025-04-20T03:30:00Z",
+    "channel": "facebook",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_276",
+    "date": "2025-04-20T04:00:00Z",
+    "channel": "manual",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_277",
+    "date": "2025-04-20T04:30:00Z",
+    "channel": "sms",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_278",
+    "date": "2025-04-20T05:00:00Z",
+    "channel": "site_web",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_279",
+    "date": "2025-04-20T05:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_280",
+    "date": "2025-04-20T06:00:00Z",
+    "channel": "email",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_281",
+    "date": "2025-04-20T06:30:00Z",
+    "channel": "twitter",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_282",
+    "date": "2025-04-20T07:00:00Z",
+    "channel": "facebook",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_283",
+    "date": "2025-04-20T07:30:00Z",
+    "channel": "manual",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_284",
+    "date": "2025-04-20T08:00:00Z",
+    "channel": "sms",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_285",
+    "date": "2025-04-20T08:30:00Z",
+    "channel": "site_web",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_286",
+    "date": "2025-04-20T09:00:00Z",
+    "channel": "google_reviews",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_287",
+    "date": "2025-04-20T09:30:00Z",
+    "channel": "email",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_288",
+    "date": "2025-04-20T10:00:00Z",
+    "channel": "twitter",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_289",
+    "date": "2025-04-20T10:30:00Z",
+    "channel": "facebook",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_290",
+    "date": "2025-04-20T11:00:00Z",
+    "channel": "manual",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_291",
+    "date": "2025-04-20T11:30:00Z",
+    "channel": "sms",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_292",
+    "date": "2025-04-20T12:00:00Z",
+    "channel": "site_web",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_293",
+    "date": "2025-04-20T12:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_294",
+    "date": "2025-04-20T13:00:00Z",
+    "channel": "email",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_295",
+    "date": "2025-04-20T13:30:00Z",
+    "channel": "twitter",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_296",
+    "date": "2025-04-20T14:00:00Z",
+    "channel": "facebook",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_297",
+    "date": "2025-04-20T14:30:00Z",
+    "channel": "manual",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_298",
+    "date": "2025-04-20T15:00:00Z",
+    "channel": "sms",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_299",
+    "date": "2025-04-20T15:30:00Z",
+    "channel": "site_web",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_300",
+    "date": "2025-04-20T16:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_301",
+    "date": "2025-04-20T16:30:00Z",
+    "channel": "email",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_302",
+    "date": "2025-04-20T17:00:00Z",
+    "channel": "twitter",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_303",
+    "date": "2025-04-20T17:30:00Z",
+    "channel": "facebook",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_304",
+    "date": "2025-04-20T18:00:00Z",
+    "channel": "manual",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_305",
+    "date": "2025-04-20T18:30:00Z",
+    "channel": "sms",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_306",
+    "date": "2025-04-20T19:00:00Z",
+    "channel": "site_web",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_307",
+    "date": "2025-04-20T19:30:00Z",
+    "channel": "google_reviews",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_308",
+    "date": "2025-04-20T20:00:00Z",
+    "channel": "email",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_309",
+    "date": "2025-04-20T20:30:00Z",
+    "channel": "twitter",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_310",
+    "date": "2025-04-20T21:00:00Z",
+    "channel": "facebook",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_311",
+    "date": "2025-04-20T21:30:00Z",
+    "channel": "manual",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_312",
+    "date": "2025-04-20T22:00:00Z",
+    "channel": "sms",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_313",
+    "date": "2025-04-20T22:30:00Z",
+    "channel": "site_web",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_314",
+    "date": "2025-04-20T23:00:00Z",
+    "channel": "google_reviews",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_315",
+    "date": "2025-04-20T23:30:00Z",
+    "channel": "email",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_316",
+    "date": "2025-04-21T00:00:00Z",
+    "channel": "twitter",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_317",
+    "date": "2025-04-21T00:30:00Z",
+    "channel": "facebook",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_318",
+    "date": "2025-04-21T01:00:00Z",
+    "channel": "manual",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_319",
+    "date": "2025-04-21T01:30:00Z",
+    "channel": "sms",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_320",
+    "date": "2025-04-21T02:00:00Z",
+    "channel": "site_web",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_321",
+    "date": "2025-04-21T02:30:00Z",
+    "channel": "google_reviews",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_322",
+    "date": "2025-04-21T03:00:00Z",
+    "channel": "email",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_323",
+    "date": "2025-04-21T03:30:00Z",
+    "channel": "twitter",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_324",
+    "date": "2025-04-21T04:00:00Z",
+    "channel": "facebook",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_325",
+    "date": "2025-04-21T04:30:00Z",
+    "channel": "manual",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_326",
+    "date": "2025-04-21T05:00:00Z",
+    "channel": "sms",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_327",
+    "date": "2025-04-21T05:30:00Z",
+    "channel": "site_web",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_328",
+    "date": "2025-04-21T06:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_329",
+    "date": "2025-04-21T06:30:00Z",
+    "channel": "email",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_330",
+    "date": "2025-04-21T07:00:00Z",
+    "channel": "twitter",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_331",
+    "date": "2025-04-21T07:30:00Z",
+    "channel": "facebook",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_332",
+    "date": "2025-04-21T08:00:00Z",
+    "channel": "manual",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_333",
+    "date": "2025-04-21T08:30:00Z",
+    "channel": "sms",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_334",
+    "date": "2025-04-21T09:00:00Z",
+    "channel": "site_web",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_335",
+    "date": "2025-04-21T09:30:00Z",
+    "channel": "google_reviews",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_336",
+    "date": "2025-04-21T10:00:00Z",
+    "channel": "email",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_337",
+    "date": "2025-04-21T10:30:00Z",
+    "channel": "twitter",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_338",
+    "date": "2025-04-21T11:00:00Z",
+    "channel": "facebook",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_339",
+    "date": "2025-04-21T11:30:00Z",
+    "channel": "manual",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_340",
+    "date": "2025-04-21T12:00:00Z",
+    "channel": "sms",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_341",
+    "date": "2025-04-21T12:30:00Z",
+    "channel": "site_web",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_342",
+    "date": "2025-04-21T13:00:00Z",
+    "channel": "google_reviews",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_343",
+    "date": "2025-04-21T13:30:00Z",
+    "channel": "email",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_344",
+    "date": "2025-04-21T14:00:00Z",
+    "channel": "twitter",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_345",
+    "date": "2025-04-21T14:30:00Z",
+    "channel": "facebook",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_346",
+    "date": "2025-04-21T15:00:00Z",
+    "channel": "manual",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_347",
+    "date": "2025-04-21T15:30:00Z",
+    "channel": "sms",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_348",
+    "date": "2025-04-21T16:00:00Z",
+    "channel": "site_web",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_349",
+    "date": "2025-04-21T16:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_350",
+    "date": "2025-04-21T17:00:00Z",
+    "channel": "email",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_351",
+    "date": "2025-04-21T17:30:00Z",
+    "channel": "twitter",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_352",
+    "date": "2025-04-21T18:00:00Z",
+    "channel": "facebook",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_353",
+    "date": "2025-04-21T18:30:00Z",
+    "channel": "manual",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_354",
+    "date": "2025-04-21T19:00:00Z",
+    "channel": "sms",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_355",
+    "date": "2025-04-21T19:30:00Z",
+    "channel": "site_web",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_356",
+    "date": "2025-04-21T20:00:00Z",
+    "channel": "google_reviews",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_357",
+    "date": "2025-04-21T20:30:00Z",
+    "channel": "email",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_358",
+    "date": "2025-04-21T21:00:00Z",
+    "channel": "twitter",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_359",
+    "date": "2025-04-21T21:30:00Z",
+    "channel": "facebook",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_360",
+    "date": "2025-04-21T22:00:00Z",
+    "channel": "manual",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_361",
+    "date": "2025-04-21T22:30:00Z",
+    "channel": "sms",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_362",
+    "date": "2025-04-21T23:00:00Z",
+    "channel": "site_web",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_363",
+    "date": "2025-04-21T23:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_364",
+    "date": "2025-04-22T00:00:00Z",
+    "channel": "email",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_365",
+    "date": "2025-04-22T00:30:00Z",
+    "channel": "twitter",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_366",
+    "date": "2025-04-22T01:00:00Z",
+    "channel": "facebook",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_367",
+    "date": "2025-04-22T01:30:00Z",
+    "channel": "manual",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_368",
+    "date": "2025-04-22T02:00:00Z",
+    "channel": "sms",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_369",
+    "date": "2025-04-22T02:30:00Z",
+    "channel": "site_web",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_370",
+    "date": "2025-04-22T03:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_371",
+    "date": "2025-04-22T03:30:00Z",
+    "channel": "email",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_372",
+    "date": "2025-04-22T04:00:00Z",
+    "channel": "twitter",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_373",
+    "date": "2025-04-22T04:30:00Z",
+    "channel": "facebook",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_374",
+    "date": "2025-04-22T05:00:00Z",
+    "channel": "manual",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_375",
+    "date": "2025-04-22T05:30:00Z",
+    "channel": "sms",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_376",
+    "date": "2025-04-22T06:00:00Z",
+    "channel": "site_web",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_377",
+    "date": "2025-04-22T06:30:00Z",
+    "channel": "google_reviews",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_378",
+    "date": "2025-04-22T07:00:00Z",
+    "channel": "email",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_379",
+    "date": "2025-04-22T07:30:00Z",
+    "channel": "twitter",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_380",
+    "date": "2025-04-22T08:00:00Z",
+    "channel": "facebook",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_381",
+    "date": "2025-04-22T08:30:00Z",
+    "channel": "manual",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_382",
+    "date": "2025-04-22T09:00:00Z",
+    "channel": "sms",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_383",
+    "date": "2025-04-22T09:30:00Z",
+    "channel": "site_web",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_384",
+    "date": "2025-04-22T10:00:00Z",
+    "channel": "google_reviews",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_385",
+    "date": "2025-04-22T10:30:00Z",
+    "channel": "email",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_386",
+    "date": "2025-04-22T11:00:00Z",
+    "channel": "twitter",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_387",
+    "date": "2025-04-22T11:30:00Z",
+    "channel": "facebook",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_388",
+    "date": "2025-04-22T12:00:00Z",
+    "channel": "manual",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_389",
+    "date": "2025-04-22T12:30:00Z",
+    "channel": "sms",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_390",
+    "date": "2025-04-22T13:00:00Z",
+    "channel": "site_web",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_391",
+    "date": "2025-04-22T13:30:00Z",
+    "channel": "google_reviews",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_392",
+    "date": "2025-04-22T14:00:00Z",
+    "channel": "email",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_393",
+    "date": "2025-04-22T14:30:00Z",
+    "channel": "twitter",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_394",
+    "date": "2025-04-22T15:00:00Z",
+    "channel": "facebook",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_395",
+    "date": "2025-04-22T15:30:00Z",
+    "channel": "manual",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_396",
+    "date": "2025-04-22T16:00:00Z",
+    "channel": "sms",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_397",
+    "date": "2025-04-22T16:30:00Z",
+    "channel": "site_web",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_398",
+    "date": "2025-04-22T17:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_399",
+    "date": "2025-04-22T17:30:00Z",
+    "channel": "email",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_400",
+    "date": "2025-04-22T18:00:00Z",
+    "channel": "twitter",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_401",
+    "date": "2025-04-22T18:30:00Z",
+    "channel": "facebook",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_402",
+    "date": "2025-04-22T19:00:00Z",
+    "channel": "manual",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_403",
+    "date": "2025-04-22T19:30:00Z",
+    "channel": "sms",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_404",
+    "date": "2025-04-22T20:00:00Z",
+    "channel": "site_web",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_405",
+    "date": "2025-04-22T20:30:00Z",
+    "channel": "google_reviews",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_406",
+    "date": "2025-04-22T21:00:00Z",
+    "channel": "email",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_407",
+    "date": "2025-04-22T21:30:00Z",
+    "channel": "twitter",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_408",
+    "date": "2025-04-22T22:00:00Z",
+    "channel": "facebook",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_409",
+    "date": "2025-04-22T22:30:00Z",
+    "channel": "manual",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_410",
+    "date": "2025-04-22T23:00:00Z",
+    "channel": "sms",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_411",
+    "date": "2025-04-22T23:30:00Z",
+    "channel": "site_web",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_412",
+    "date": "2025-04-23T00:00:00Z",
+    "channel": "google_reviews",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_413",
+    "date": "2025-04-23T00:30:00Z",
+    "channel": "email",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_414",
+    "date": "2025-04-23T01:00:00Z",
+    "channel": "twitter",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_415",
+    "date": "2025-04-23T01:30:00Z",
+    "channel": "facebook",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_416",
+    "date": "2025-04-23T02:00:00Z",
+    "channel": "manual",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_417",
+    "date": "2025-04-23T02:30:00Z",
+    "channel": "sms",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_418",
+    "date": "2025-04-23T03:00:00Z",
+    "channel": "site_web",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_419",
+    "date": "2025-04-23T03:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_420",
+    "date": "2025-04-23T04:00:00Z",
+    "channel": "email",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_421",
+    "date": "2025-04-23T04:30:00Z",
+    "channel": "twitter",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_422",
+    "date": "2025-04-23T05:00:00Z",
+    "channel": "facebook",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_423",
+    "date": "2025-04-23T05:30:00Z",
+    "channel": "manual",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_424",
+    "date": "2025-04-23T06:00:00Z",
+    "channel": "sms",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_425",
+    "date": "2025-04-23T06:30:00Z",
+    "channel": "site_web",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_426",
+    "date": "2025-04-23T07:00:00Z",
+    "channel": "google_reviews",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_427",
+    "date": "2025-04-23T07:30:00Z",
+    "channel": "email",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_428",
+    "date": "2025-04-23T08:00:00Z",
+    "channel": "twitter",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_429",
+    "date": "2025-04-23T08:30:00Z",
+    "channel": "facebook",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_430",
+    "date": "2025-04-23T09:00:00Z",
+    "channel": "manual",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_431",
+    "date": "2025-04-23T09:30:00Z",
+    "channel": "sms",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_432",
+    "date": "2025-04-23T10:00:00Z",
+    "channel": "site_web",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_433",
+    "date": "2025-04-23T10:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_434",
+    "date": "2025-04-23T11:00:00Z",
+    "channel": "email",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_435",
+    "date": "2025-04-23T11:30:00Z",
+    "channel": "twitter",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_436",
+    "date": "2025-04-23T12:00:00Z",
+    "channel": "facebook",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_437",
+    "date": "2025-04-23T12:30:00Z",
+    "channel": "manual",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_438",
+    "date": "2025-04-23T13:00:00Z",
+    "channel": "sms",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_439",
+    "date": "2025-04-23T13:30:00Z",
+    "channel": "site_web",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_440",
+    "date": "2025-04-23T14:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_441",
+    "date": "2025-04-23T14:30:00Z",
+    "channel": "email",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_442",
+    "date": "2025-04-23T15:00:00Z",
+    "channel": "twitter",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_443",
+    "date": "2025-04-23T15:30:00Z",
+    "channel": "facebook",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_444",
+    "date": "2025-04-23T16:00:00Z",
+    "channel": "manual",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_445",
+    "date": "2025-04-23T16:30:00Z",
+    "channel": "sms",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_446",
+    "date": "2025-04-23T17:00:00Z",
+    "channel": "site_web",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_447",
+    "date": "2025-04-23T17:30:00Z",
+    "channel": "google_reviews",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_448",
+    "date": "2025-04-23T18:00:00Z",
+    "channel": "email",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_449",
+    "date": "2025-04-23T18:30:00Z",
+    "channel": "twitter",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_450",
+    "date": "2025-04-23T19:00:00Z",
+    "channel": "facebook",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_451",
+    "date": "2025-04-23T19:30:00Z",
+    "channel": "manual",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_452",
+    "date": "2025-04-23T20:00:00Z",
+    "channel": "sms",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_453",
+    "date": "2025-04-23T20:30:00Z",
+    "channel": "site_web",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_454",
+    "date": "2025-04-23T21:00:00Z",
+    "channel": "google_reviews",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_455",
+    "date": "2025-04-23T21:30:00Z",
+    "channel": "email",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_456",
+    "date": "2025-04-23T22:00:00Z",
+    "channel": "twitter",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_457",
+    "date": "2025-04-23T22:30:00Z",
+    "channel": "facebook",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_458",
+    "date": "2025-04-23T23:00:00Z",
+    "channel": "manual",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_459",
+    "date": "2025-04-23T23:30:00Z",
+    "channel": "sms",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_460",
+    "date": "2025-04-24T00:00:00Z",
+    "channel": "site_web",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_461",
+    "date": "2025-04-24T00:30:00Z",
+    "channel": "google_reviews",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_462",
+    "date": "2025-04-24T01:00:00Z",
+    "channel": "email",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_463",
+    "date": "2025-04-24T01:30:00Z",
+    "channel": "twitter",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_464",
+    "date": "2025-04-24T02:00:00Z",
+    "channel": "facebook",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_465",
+    "date": "2025-04-24T02:30:00Z",
+    "channel": "manual",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_466",
+    "date": "2025-04-24T03:00:00Z",
+    "channel": "sms",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_467",
+    "date": "2025-04-24T03:30:00Z",
+    "channel": "site_web",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_468",
+    "date": "2025-04-24T04:00:00Z",
+    "channel": "google_reviews",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_469",
+    "date": "2025-04-24T04:30:00Z",
+    "channel": "email",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_470",
+    "date": "2025-04-24T05:00:00Z",
+    "channel": "twitter",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_471",
+    "date": "2025-04-24T05:30:00Z",
+    "channel": "facebook",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_472",
+    "date": "2025-04-24T06:00:00Z",
+    "channel": "manual",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_473",
+    "date": "2025-04-24T06:30:00Z",
+    "channel": "sms",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_474",
+    "date": "2025-04-24T07:00:00Z",
+    "channel": "site_web",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_475",
+    "date": "2025-04-24T07:30:00Z",
+    "channel": "google_reviews",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_476",
+    "date": "2025-04-24T08:00:00Z",
+    "channel": "email",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_477",
+    "date": "2025-04-24T08:30:00Z",
+    "channel": "twitter",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_478",
+    "date": "2025-04-24T09:00:00Z",
+    "channel": "facebook",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_479",
+    "date": "2025-04-24T09:30:00Z",
+    "channel": "manual",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_480",
+    "date": "2025-04-24T10:00:00Z",
+    "channel": "sms",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_481",
+    "date": "2025-04-24T10:30:00Z",
+    "channel": "site_web",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_482",
+    "date": "2025-04-24T11:00:00Z",
+    "channel": "google_reviews",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_483",
+    "date": "2025-04-24T11:30:00Z",
+    "channel": "email",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_484",
+    "date": "2025-04-24T12:00:00Z",
+    "channel": "twitter",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_485",
+    "date": "2025-04-24T12:30:00Z",
+    "channel": "facebook",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_486",
+    "date": "2025-04-24T13:00:00Z",
+    "channel": "manual",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_487",
+    "date": "2025-04-24T13:30:00Z",
+    "channel": "sms",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_488",
+    "date": "2025-04-24T14:00:00Z",
+    "channel": "site_web",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_489",
+    "date": "2025-04-24T14:30:00Z",
+    "channel": "google_reviews",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_490",
+    "date": "2025-04-24T15:00:00Z",
+    "channel": "email",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  },
+  {
+    "id": "fb_491",
+    "date": "2025-04-24T15:30:00Z",
+    "channel": "twitter",
+    "text": "Le support client a été très réactif et efficace."
+  },
+  {
+    "id": "fb_492",
+    "date": "2025-04-24T16:00:00Z",
+    "channel": "facebook",
+    "text": "Je trouve les tarifs un peu élevés pour les fonctionnalités proposées."
+  },
+  {
+    "id": "fb_493",
+    "date": "2025-04-24T16:30:00Z",
+    "channel": "manual",
+    "text": "L’interface est moderne et intuitive."
+  },
+  {
+    "id": "fb_494",
+    "date": "2025-04-24T17:00:00Z",
+    "channel": "sms",
+    "text": "J’ai rencontré un bug lors de l’exportation des rapports."
+  },
+  {
+    "id": "fb_495",
+    "date": "2025-04-24T17:30:00Z",
+    "channel": "site_web",
+    "text": "La documentation pourrait être plus détaillée."
+  },
+  {
+    "id": "fb_496",
+    "date": "2025-04-24T18:00:00Z",
+    "channel": "google_reviews",
+    "text": "La performance est excellente, aucun ralentissement."
+  },
+  {
+    "id": "fb_497",
+    "date": "2025-04-24T18:30:00Z",
+    "channel": "email",
+    "text": "J’aimerais plus d’options de personnalisation."
+  },
+  {
+    "id": "fb_498",
+    "date": "2025-04-24T19:00:00Z",
+    "channel": "twitter",
+    "text": "Le processus d’inscription est simple et rapide."
+  },
+  {
+    "id": "fb_499",
+    "date": "2025-04-24T19:30:00Z",
+    "channel": "facebook",
+    "text": "L’application manque de certaines fonctionnalités avancées."
+  },
+  {
+    "id": "fb_500",
+    "date": "2025-04-24T20:00:00Z",
+    "channel": "manual",
+    "text": "Le produit offre une excellente expérience utilisateur."
+  }
+]
