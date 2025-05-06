@@ -5,8 +5,7 @@ const User = require('../models/User');
 exports.authenticate = async (req, res, next) => {
   try {
     // Essayer de récupérer le token du cookie d'abord, puis du header Authorization
-    let token = req.cookies.token || req.header('Authorization')?.replace('Bearer ', '');
-
+    let token = req.Authorization || req.header('Authorization')?.replace('Bearer ', '');
     if (!token) {
       return res.status(401).json({ error: 'Authentication required' });
     }
@@ -22,7 +21,7 @@ exports.authenticate = async (req, res, next) => {
     req.token = token;
     next();
   } catch (error) {
-    res.status(401).json({ error: 'Invalid token' });
+    res.status(401).json({ error: 'Invalid token (middleware)' });
   }
 };
 

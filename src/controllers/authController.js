@@ -1,6 +1,5 @@
 const jwt = require('jsonwebtoken');
 const User = require('../models/User');
-let db;
 
 // Test Husky Simple
 
@@ -54,21 +53,19 @@ exports.login = async (req, res) => {
     // Trouver l'utilisateur
     const user = await User.findOne({ email });
     if (!user) {
-      return res.status(401).json({ error: 'Invalid credentials' });
+      return res.status(401).json({ error: 'User not found' });
     }
 
     // Vérifier le mot de passe
     const isValidPassword = await user.comparePassword(password);
     if (!isValidPassword) {
-      return res.status(401).json({ error: 'Invalid credentials' });
+      return res.status(401).json({ error: 'password not valid' });
     }
 
     // Générer le token
     const token = jwt.sign({ userId: user._id, role: user.role }, process.env.JWT_SECRET, {
       expiresIn: '24h',
     });
-
-    console.log('Token generated:', token);
 
     // Stocker le token dans un cookie httpOnly
     res.cookie('token', token, {

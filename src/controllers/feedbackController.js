@@ -95,6 +95,7 @@ exports.createFeedback = async (req, res) => {
 
 // Récupérer tous les feedbacks de l'utilisateur connecté
 exports.getAllFeedbacks = async (req, res) => {
+  console.log('User ID:', req.user._id); // Debugging line
   try {
     const feedbacks = await Feedback.find({ userId: req.user._id }).sort({ date: -1 }); // Trier par date décroissante
 

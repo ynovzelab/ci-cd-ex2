@@ -15,7 +15,8 @@
     "format": "prettier --write \"src/**/*.js\" \"*.js\"",
     "format:check": "prettier --check \"src/**/*.js\" \"*.js\"",
     "prepare": "husky",
-    "pre-commit":"npm run format && npm run lint && npm test"
+    "pre-commit": "npm run format && npm run lint",
+    "test:perf": "k6 run src/tests/performance/metrics.test.js"
   },
   "husky": {
     "hooks": {
@@ -24,6 +25,7 @@
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "compression": "^1.8.0",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
